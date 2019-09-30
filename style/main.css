@@ -1,0 +1,36 @@
+body {
+    background-color: azure
+}
+
+
+h2 {
+    color: rgb(110, 23, 1);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-decoration: rgb(110, 23, 1);
+}
+a:hover {
+    color: rgb(21, 4, 247)
+}
+
+.menu-header li{
+    display: inline-block;
+}
+.menu-header a {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-transform: uppercase;
+    color: azure;
+    text-decoration: aqua;
+    padding: 10px 20px;
+    letter-spacing: 1px;
+}
+.menu-header a:hover {
+    color: coral;
+}
+.cardhome{
+    background-color: aqua;
+    width: 30%;
+    height: 250px;
+    border-radius: 
+    
+
+}
