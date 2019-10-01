@@ -23,14 +23,15 @@ a:hover {
     padding: 10px 20px;
     letter-spacing: 1px;
 }
-.menu-header a:hover {
+
+
+a:hover {
     color: coral;
 }
-.cardhome{
+.cardhome {
     background-color: aqua;
     width: 30%;
     height: 250px;
-    border-radius: 
+    border-radius: 0px 0px 20px 20px; 
     
-
 }
